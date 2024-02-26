@@ -1,66 +1,68 @@
-/*
-
-  WARNING APIKEY UTAMA ADALAH APIKEY
-
-   https://api.botcahx.eu.org
-   https://api.betabotz.org
-   
-   Web apikey diatas adalah web utama
-
-*/
-
-// Umum
-global.owner = ['6283833582904']  
-global.mods = ['6283833582904'] 
-global.prems = ['6283833582904']
-global.nameowner = 'Wen'
-global.numberowner = '6283833582904' 
-
-// Social
-global.mail = 'alhatifquzwaen180428@gmail.com' 
-global.gc = 'https://chat.whatsapp.com/GN475mNniisGfKkgNX1W3i'
-global.instagram = 'https://instagram.com/wen_story1804'
-
-// Sticker
-global.wm = '© Wen'
-global.wait = '*⫹⫺* _*Tunggu sedang di proses...*_'
-global.eror = '*⫹⫺* _*Server Error*_'
-global.stiker_wait = '*⫹⫺* _*Stiker sedang dibuat...*_'
-global.packname = 'Bot By'
-global.author = 'WenBotz'
+global.owner = ['6285794908894']  
+global.mods = ['6285794908894'] 
+global.prems = ['6285794908894']
+global.nameowner = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.numberowner = '6285794908894' 
+global.mail = '?' 
+global.gc = 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
+global.instagram = '@iky_alwaysgood'
+global.wm = '© Kιɳα Bσƚ'
+global.wait = '_*tunggu sєdαng díprσsєs ...*_'
+global.eror = '_*sєrvєr єrrσr*_'
+global.stiker_wait = '_*⫹⫺ stíckєr sєdαng díвuαt ...*_'
+global.packname = 'mαdє wíth'
+global.author = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.audio = 'https://file.btch.bz/file/fi5y8fhhrbfyn4ok1ptk.mp3'
 global.maxwarn = '2' // Peringatan maksimum
 
-//Panel
-global.domain = 'https://xxxxx' //domain
-global.capikey = 'pltc_xxxxx' //pltc
-global.apikey = 'plta_xxxxx' //plta
+//INI WAJIB DI ISI!//
+global.btc = 'YOUR_API_KEY' 
+//Daftar terlebih dahulu https://api.botcahx.eu.org
+global.lolkey = 'GataDios'
+global.xkey = 'd90a9e986e18778b'
+global.xzn = 'konekocyz'
+global.lann = 'p8ADYJib'
+global.xyro = '3WIq7q3CWt'
+global.btc = 'ikyalwaysgood'
+global.xteam = 'MIMINETBOT'
+global.Zeks = 'apivinz'
+global.Caliph = 'FreeApi'
+global.ZeksApi = 'PmzFe9Hq4xYdwha6pxiXd9jgLnh'
+global.vhtear = 'LoliHunter'
+global.apiKey = '7ed90d537ab5edddb6ba6465'
+global.BarBarKey = 'IDxO1TFYnKADlX4pxcHa'
+global.lann = '5G4Gdi67'
 
-// APIKEY
-global.lolkey = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
-global.xkey = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
-global.xzn = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
-global.xyro = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
-global.btc = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
-global.lann = 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
 
 global.APIs = {   
-  nrtm: 'https://nurutomo.herokuapp.com', // Ini web apikey nya ambil sendiri 
-  lol: 'https://api.lolhuman.xyz', // Ini web apikey nya ambil sendiri 
-  xzn: 'https://skizo.tech', // Ini web apikey nya ambil sendiri 
-  xyro: 'https://api.xyroinee.xyz', // Ini web apikey nya ambil sendiri 
-  can: 'https://pnggilajacn.my.id', // Ini web apikey nya ambil sendiri 
-  skizo: 'https://xzn.wtf', // Ini web apikey nya ambil sendiri 
-  btc: 'https://api.botcahx.eu.org', // Ini web apikey nya ambil sendiri 
-  lann: 'https://api.betabotz.org' // Ini web apikey nya ambil sendiri 
+  btc: 'https://api.botcahx.eu.org',
+  lol: 'https://api.lolhuman.xyz', 
+  xzn: 'https://skizo.tech',
+  lann: 'https://api.betabotz.org', 
+  xyro: 'https://api.xyroinee.xyz',
+  btc: 'https://api.botcahx.eu.org',
+  xteam: 'https://api.xteam.xyz',
+  Zeks: 'https://api.zeks.xyz',
+  Caliph: 'https://caliphapi.com',
+  ZeksApi: 'https://api.zeks.xyz',
+  vhtear: 'https://api.vhtear.com',
+  apiKey: 'https://api.zeks.xyz',
+  BarBarkey: 'https://api.barbar.moe'
 }
 global.APIKeys = { 
-  'https://api.lolhuman.xyz': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://skizo.tech': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://api.xyroinee.xyz': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://pnggilajacn.my.id': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://xzn.wtf': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://api.botcahx.eu.org': 'APIKEY_KAMU', // Ambil apikey kalian di web api nya
-  'https://api.betabotz.org': 'APIKEY_KAMU' // Ambil apikey kalian di web api nya
+  'https://api.botcahx.eu.org': 'YOUR_API_KEY',
+  'https://api.lolhuman.xyz': 'GataDios',
+  'https://skizo.tech': 'konekocyz', 
+  'https://api.betabotz.org': 'p8ADYJib', 
+  'https://api.xyroinee.xyz': '3WIq7q3CWt', 
+  'https://api.botcahx.eu.org': 'ikyalwaysgood', 
+  'https://api.xteam.xyz': 'MIMINETBOT', 
+  'https://api.zeks.xyz': 'apivinz', 
+  'https://caliphapi.com': 'FreeApi', 
+  'https://api.zeks.xyz': 'PmzFe9Hq4xYdwha6pxiXd9jgLnh',
+  'https://api.vhtear.com': 'LoliHunter', 
+  'https://api.zeks.xyz': '7ed90d537ab5edddb6ba6465',
+  'https://api.barbar.moe': 'IDxO1TFYnKADlX4pxcHa'
 }
 
 let fs = require('fs')
