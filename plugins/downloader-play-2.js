@@ -1,1 +1,67 @@
-var _0x5660d5=_0x5633;(function(_0x4a6741,_0x5dfdbf){var _0x391142=_0x5633,_0x30db73=_0x4a6741();while(!![]){try{var _0x504b80=-parseInt(_0x391142(0x1bf))/0x1*(-parseInt(_0x391142(0x1cb))/0x2)+parseInt(_0x391142(0x1a7))/0x3+-parseInt(_0x391142(0x1a5))/0x4+-parseInt(_0x391142(0x1be))/0x5+-parseInt(_0x391142(0x1c9))/0x6+parseInt(_0x391142(0x1b8))/0x7+parseInt(_0x391142(0x1a2))/0x8*(parseInt(_0x391142(0x1ba))/0x9);if(_0x504b80===_0x5dfdbf)break;else _0x30db73['push'](_0x30db73['shift']());}catch(_0x58184b){_0x30db73['push'](_0x30db73['shift']());}}}(_0xff88,0xab21b));const youtube=require(_0x5660d5(0x1bb));var handler=async(_0x240554,{conn:_0x5b12f5,text:_0x3f96c0,usedPrefix:_0x358323})=>{var _0x1a33dd=_0x5660d5;if(!_0x3f96c0)throw'Enter\x20Title\x20/\x20Link\x20From\x20YouTube!';try{var _0x4b42e2=await youtube(_0x3f96c0),_0x5c6403=_0x4b42e2[_0x1a33dd(0x1c0)][0x0];if(!_0x5c6403)throw'Video/Audio\x20Tidak\x20Ditemukan';if(_0x5c6403[_0x1a33dd(0x1bc)]>=0xe10)return _0x5b12f5[_0x1a33dd(0x1c4)](_0x240554['chat'],_0x1a33dd(0x1a9),_0x240554);else{var _0x325d10;try{_0x325d10='https://aemt.me/downloadAudio?URL='+_0x5c6403[_0x1a33dd(0x1b0)]+'&videoName=ytdl';}catch(_0x3e847f){_0x5b12f5[_0x1a33dd(0x1c4)](_0x240554[_0x1a33dd(0x1bd)],wait,_0x240554),_0x325d10=_0x1a33dd(0x1b4)+_0x5c6403[_0x1a33dd(0x1b0)]+_0x1a33dd(0x1aa);}var _0x44e651=_0x1a33dd(0x1b6)+_0x5c6403[_0x1a33dd(0x1ab)]+_0x1a33dd(0x1af)+_0x5c6403[_0x1a33dd(0x1b3)]+_0x1a33dd(0x1b7)+_0x5c6403['timestamp']+'\x0a∘\x20Viewers\x20:\x20'+_0x5c6403[_0x1a33dd(0x1ac)]+'\x0a∘\x20Upload\x20At\x20:\x20'+_0x5c6403[_0x1a33dd(0x1a3)]+'\x0a∘\x20Author\x20:\x20'+_0x5c6403[_0x1a33dd(0x1ae)]['name']+_0x1a33dd(0x1c2)+_0x5c6403['author']['url']+_0x1a33dd(0x1a6)+_0x5c6403[_0x1a33dd(0x1b0)]+'\x0a∘\x20Description\x20:\x20'+_0x5c6403[_0x1a33dd(0x1a4)]+'\x0a∘\x20Thumbnail\x20:\x20'+_0x5c6403[_0x1a33dd(0x1ad)],_0x2c19d2=_0x5b12f5[_0x1a33dd(0x1c7)](_0x240554[_0x1a33dd(0x1bd)],{'extendedTextMessage':{'text':_0x44e651,'contextInfo':{'externalAdReply':{'title':_0x1a33dd(0x1b2),'mediaType':0x1,'previewType':0x0,'renderLargerThumbnail':!![],'thumbnailUrl':_0x5c6403['image'],'sourceUrl':_0x325d10}},'mentions':[_0x240554[_0x1a33dd(0x1c1)]]}},{});_0x5b12f5[_0x1a33dd(0x1b5)](_0x240554[_0x1a33dd(0x1bd)],{'audio':{'url':_0x325d10},'mimetype':_0x1a33dd(0x1a8),'contextInfo':{'externalAdReply':{'title':_0x5c6403['title'],'body':'','thumbnailUrl':_0x5c6403['image'],'sourceUrl':_0x325d10,'mediaType':0x1,'showAdAttribution':!![],'renderLargerThumbnail':!![]}}},{'quoted':_0x240554});}}catch(_0x37386c){_0x5b12f5[_0x1a33dd(0x1c4)](_0x240554[_0x1a33dd(0x1bd)],_0x1a33dd(0x1c6)+eror,_0x240554);}};function _0x5633(_0x33b5c9,_0x345359){var _0xff881a=_0xff88();return _0x5633=function(_0x56332a,_0x266b25){_0x56332a=_0x56332a-0x1a2;var _0x4a61ed=_0xff881a[_0x56332a];return _0x4a61ed;},_0x5633(_0x33b5c9,_0x345359);}handler['command']=handler[_0x5660d5(0x1b1)]=['play2'],handler[_0x5660d5(0x1b9)]=[_0x5660d5(0x1c3)],handler[_0x5660d5(0x1ca)]=0x0,handler['limit']=!![],handler[_0x5660d5(0x1c5)]=!![],module[_0x5660d5(0x1c8)]=handler;function _0xff88(){var _0x2b5d34=['exp','10dlHCPM','104XfADfm','ago','description','3774972rOLMQp','\x0a∘\x20Url\x20:\x20','3165348cEHyAF','audio/mpeg','Video\x20is\x20longer\x20than\x201\x20hour!','&filter=audioonly&quality=highestaudio&contenttype=audio/mpeg','title','views','image','author','\x0a∘\x20Ext\x20:\x20Search\x0a∘\x20ID\x20:\x20','url','help','Powered\x20by','videoId','https://aemt.me/youtube?url=','sendMessage','∘\x20Title\x20:\x20','\x0a∘\x20Duration\x20:\x20','7759339AhOGiB','tags','224163DHmscT','yt-search','seconds','chat','3239565salngY','29899bUfOdK','videos','sender','\x0a∘\x20Channel\x20:\x20','downloader','reply','owner','*Error:*\x20','relayMessage','exports','2065608JrALRC'];_0xff88=function(){return _0x2b5d34;};return _0xff88();}
+const youtube = require("yt-search");
+var handler = async (m, {
+    conn,
+    text,
+    usedPrefix
+}) => {
+    if (!text) throw 'Enter Title / Link From YouTube!';
+    try {
+        var search = await youtube(text);
+        var convert = search.videos[0];
+        if (!convert) throw 'Video/Audio Tidak Ditemukan';
+        if (convert.seconds >= 3600) {
+            return conn.reply(m.chat, 'Video is longer than 1 hour!', m);
+        } else {
+            var audioUrl
+            try {
+                audioUrl = `https://aemt.me/downloadAudio?URL=${convert.url}&videoName=ytdl`
+            } catch (e) {
+                conn.reply(m.chat, wait, m)
+                audioUrl = `https://aemt.me/youtube?url=${convert.url}&filter=audioonly&quality=highestaudio&contenttype=audio/mpeg`
+            } 
+            var caption = `∘ Title : ${convert.title}\n∘ Ext : Search\n∘ ID : ${convert.videoId}\n∘ Duration : ${convert.timestamp}\n∘ Viewers : ${convert.views}\n∘ Upload At : ${convert.ago}\n∘ Author : ${convert.author.name}\n∘ Channel : ${convert.author.url}\n∘ Url : ${convert.url}\n∘ Description : ${convert.description}\n∘ Thumbnail : ${convert.image}`;
+            var pesan = conn.relayMessage(m.chat, {
+                extendedTextMessage:{
+                text: caption, 
+                contextInfo: {
+                     externalAdReply: {
+                        title: "Powered by Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ",
+                        mediaType: 1,
+                        previewType: 0,
+                        renderLargerThumbnail: true,
+                        thumbnailUrl: convert.image,
+                        sourceUrl: audioUrl
+                    }
+                }, mentions: [m.sender]
+                }}, {})
+            conn.sendMessage(m.chat, {
+                audio: {
+                    url: audioUrl
+                },
+                mimetype: 'audio/mpeg',
+                contextInfo: {
+                    externalAdReply: {
+                        title: convert.title,
+                        body: "",
+                        thumbnailUrl: convert.image,
+                        sourceUrl: audioUrl,
+                        mediaType: 1,
+                        showAdAttribution: true,
+                        renderLargerThumbnail: true
+                    }
+                }
+            }, {
+                quoted: m
+            });
+        }
+    } catch (e) {
+        conn.reply(m.chat, `*Error:* ` + eror, m);
+    }
+};
+
+handler.command = handler.help = ['play2'];
+handler.tags = ['downloader'];
+handler.exp = 0;
+handler.limit = false;
+handler.premium = false;
+module.exports = handler;
