@@ -30,7 +30,7 @@ ubah di bawah!!!
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
       body: global.author,
-      thumbnailUrl: 'https://telegra.ph/file/a3ea41049bafaabb1928c.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/238444223146fd7a46924.jpg',
       sourceUrl: `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
       mediaType: 1,
       renderLargerThumbnail: true
