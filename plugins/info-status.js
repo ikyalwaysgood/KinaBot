@@ -1,1 +1,102 @@
-function _0x419f(_0x1b0473,_0x395d75){const _0x2acf28=_0x2acf();return _0x419f=function(_0x419f24,_0x55c688){_0x419f24=_0x419f24-0x92;let _0xf70b19=_0x2acf28[_0x419f24];return _0xf70b19;},_0x419f(_0x1b0473,_0x395d75);}const _0x4026b1=_0x419f;function _0x2acf(){const _0x16777f=['exports','bot','..._','drive','reply','\x0a*「\x20Status\x20」*\x0aOS\x20:\x20*','@s.whatsapp.net','1540220MjLacq','replace','catch','padStart','floor','join','18ZIKVTn','platform','usage','node-os-utils','user','model','sender','\x20MB','all','test','18830xODxrj','now','2038HpfUjj','log','then','count','2268260nlIUFa','768bkksto','inOut','Status.js\x20error\x0aNo:\x20*','inputMb','\x20/\x20','_Testing\x20','totalGb','totalMemMb','383840wFunsg','Not\x20Detect','2067948dRTmDi','info',')*\x0aDrive\x20:\x20*','chat','\x20GB','\x20Core*\x0aCPU\x20:\x20*','round','422vpCKBP','relayMessage','command','https://telegra.ph/file/118372c493158f56b7aff.jpg','%*\x0aRam\x20:\x20*','cpu','\x20ms*\x0aInternet\x20IN\x20:\x20*','map','usedGb','total','filter','split','tags','toString','jid','4556840fQHnyy','mem','*\x0a\x0a*'];_0x2acf=function(){return _0x16777f;};return _0x2acf();}(function(_0xdb0a7a,_0x36e883){const _0x3907c9=_0x419f,_0x554ed3=_0xdb0a7a();while(!![]){try{const _0x1d4c5e=-parseInt(_0x3907c9(0x9e))/0x1*(parseInt(_0x3907c9(0xb4))/0x2)+-parseInt(_0x3907c9(0x92))/0x3*(-parseInt(_0x3907c9(0xab))/0x4)+-parseInt(_0x3907c9(0xa2))/0x5+-parseInt(_0x3907c9(0xa3))/0x6*(parseInt(_0x3907c9(0x9c))/0x7)+parseInt(_0x3907c9(0xc3))/0x8+parseInt(_0x3907c9(0xad))/0x9+parseInt(_0x3907c9(0xcd))/0xa;if(_0x1d4c5e===_0x36e883)break;else _0x554ed3['push'](_0x554ed3['shift']());}catch(_0x576a95){_0x554ed3['push'](_0x554ed3['shift']());}}}(_0x2acf,0x49871));let {performance}=require('perf_hooks'),osu=require(_0x4026b1(0x95)),handler=async(_0x2237e7,{conn:_0x164f68,command:_0x3865ea,usedPrefix:_0x32778a,DevMode:_0x239112})=>{const _0x13950d=_0x4026b1;try{let _0x1ebb75=_0x13950d(0xac),_0x5cd8e7=performance['now'](),_0x3162c7=osu[_0x13950d(0xb9)],_0xbb542a=_0x3162c7[_0x13950d(0xa1)](),_0x76e935=osu[_0x13950d(0xc9)],_0x2e7f2c=osu[_0x13950d(0xc4)],_0x13720e=osu['netstat'],_0x17b636=osu['os'][_0x13950d(0x93)](),_0x323493=_0x3162c7[_0x13950d(0x97)](),_0x52eb1d,_0x590a99=_0x3162c7[_0x13950d(0x94)]()['then'](_0x3bbb0f=>{_0x52eb1d=_0x3bbb0f;})[_0x13950d(0xcf)](()=>{_0x52eb1d=_0x1ebb75;}),_0x1ab5e7,_0x3f389b,_0x634bac,_0x56f72a=_0x76e935[_0x13950d(0xae)]()['then'](_0x3864ac=>{const _0x45fc3a=_0x13950d;_0x1ab5e7=_0x3864ac[_0x45fc3a(0xa9)]+_0x45fc3a(0xb1),_0x3f389b=_0x3864ac[_0x45fc3a(0xbc)],_0x634bac=_0x3864ac['usedPercentage']+'%';})['catch'](()=>{_0x1ab5e7=_0x1ebb75,_0x3f389b=_0x1ebb75,_0x634bac=_0x1ebb75;}),_0x3d80e2,_0x42cab7,_0x1ce637=_0x2e7f2c[_0x13950d(0xae)]()[_0x13950d(0xa0)](_0x260f9d=>{const _0x3e84ca=_0x13950d;_0x3d80e2=_0x260f9d[_0x3e84ca(0xaa)],_0x42cab7=_0x260f9d['usedMemMb'];})[_0x13950d(0xcf)](()=>{_0x3d80e2=_0x1ebb75,_0x42cab7=_0x1ebb75;}),_0x6863e0,_0x5ded5e,_0x3a1e22=_0x13720e[_0x13950d(0xa4)]()['then'](_0xf6c81b=>{const _0x57173a=_0x13950d;_0x6863e0=_0xf6c81b[_0x57173a(0xbd)][_0x57173a(0xa6)]+'\x20MB',_0x5ded5e=_0xf6c81b[_0x57173a(0xbd)]['outputMb']+_0x57173a(0x99);})[_0x13950d(0xcf)](()=>{_0x6863e0=_0x1ebb75,_0x5ded5e=_0x1ebb75;});await Promise[_0x13950d(0x9a)]([_0x590a99,_0x56f72a,_0x1ce637,_0x3a1e22]),await _0x164f68[_0x13950d(0xca)](_0x2237e7['chat'],_0x13950d(0xa8)+_0x3865ea+_0x13950d(0xc8),_0x2237e7);let _0x339ea9=_0x3d80e2+_0x13950d(0x99),_0x511651=performance[_0x13950d(0x9d)]();var _0x320a8b=_0x13950d(0xcb)+_0x17b636+'*\x0aCPU\x20Model\x20:\x20*'+_0x323493+'*\x0aCPU\x20Core\x20:\x20*'+_0xbb542a+_0x13950d(0xb2)+_0x52eb1d+_0x13950d(0xb8)+_0x42cab7+'\x20/\x20'+_0x339ea9+'('+(/[0-9.+/]/g[_0x13950d(0x9b)](_0x42cab7)&&/[0-9.+/]/g[_0x13950d(0x9b)](_0x3d80e2)?Math[_0x13950d(0xb3)](0x64*(_0x42cab7/_0x3d80e2))+'%':_0x1ebb75)+_0x13950d(0xaf)+_0x3f389b+_0x13950d(0xa7)+_0x1ab5e7+'\x20('+_0x634bac+')*\x0aPing\x20:\x20*'+Math[_0x13950d(0xb3)](_0x511651-_0x5cd8e7)+_0x13950d(0xba)+_0x6863e0+'*\x0aInternet\x20OUT\x20:\x20*'+_0x5ded5e+'*\x0a';_0x164f68[_0x13950d(0xb5)](_0x2237e7[_0x13950d(0xb0)],{'extendedTextMessage':{'text':_0x320a8b,'contextInfo':{'externalAdReply':{'title':'','mediaType':0x1,'previewType':0x0,'renderLargerThumbnail':!![],'thumbnailUrl':_0x13950d(0xb7),'sourceUrl':''}},'mentions':[_0x2237e7[_0x13950d(0x98)]]}},{}),console[_0x13950d(0x9f)](_0x17b636);}catch(_0x5944c9){console['log'](_0x5944c9),_0x164f68[_0x13950d(0xca)](_0x2237e7[_0x13950d(0xb0)],eror,_0x2237e7);if(_0x239112)for(let _0xc2e37e of global['owner']['map'](_0x16970b=>_0x16970b[_0x13950d(0xce)](/[^0-9]/g,'')+_0x13950d(0xcc))[_0x13950d(0xbe)](_0x417a7f=>_0x417a7f!=_0x164f68[_0x13950d(0x96)][_0x13950d(0xc2)])){_0x164f68[_0x13950d(0xca)](_0xc2e37e,_0x13950d(0xa5)+_0x2237e7[_0x13950d(0x98)][_0x13950d(0xbf)]`@`[0x0]+'*\x0aCommand:\x20*'+_0x2237e7['text']+_0x13950d(0xc5)+_0x5944c9+'*',_0x2237e7);}}};handler['help']=['',_0x4026b1(0xc7)][_0x4026b1(0xbb)](_0x3b03b3=>'status'+_0x3b03b3),handler[_0x4026b1(0xc0)]=[_0x4026b1(0xae)],handler[_0x4026b1(0xb6)]=/^(bot)?stat(us)?(bot)?$/i,module[_0x4026b1(0xc6)]=handler;function clockString(_0x19ca37){const _0x4e20bb=_0x4026b1;let _0x40a9bb=Math[_0x4e20bb(0xd1)](_0x19ca37/0x36ee80),_0x3abc60=Math[_0x4e20bb(0xd1)](_0x19ca37/0xea60)%0x3c,_0x127916=Math[_0x4e20bb(0xd1)](_0x19ca37/0x3e8)%0x3c;return console[_0x4e20bb(0x9f)]({'ms':_0x19ca37,'h':_0x40a9bb,'m':_0x3abc60,'s':_0x127916}),[_0x40a9bb,_0x3abc60,_0x127916][_0x4e20bb(0xbb)](_0x886e47=>_0x886e47[_0x4e20bb(0xc1)]()[_0x4e20bb(0xd0)](0x2,0x0))[_0x4e20bb(0xd2)](':');}
+let { performance } = require('perf_hooks')
+let osu = require('node-os-utils')
+let handler = async(m, { conn, command, usedPrefix, DevMode }) => {
+    try {
+        let NotDetect = 'Not Detect'
+        let old = performance.now()
+        let cpu = osu.cpu
+        let cpuCore = cpu.count()
+        let drive = osu.drive
+        let mem = osu.mem
+        let netstat = osu.netstat
+        let OS = osu.os.platform()
+        let cpuModel = cpu.model()
+        let cpuPer
+        let p1 = cpu.usage().then(cpuPercentage => {
+            cpuPer = cpuPercentage
+        }).catch(() => {
+            cpuPer = NotDetect
+        })
+        let driveTotal, driveUsed, drivePer
+        let p2 = drive.info().then(info => {
+            driveTotal = (info.totalGb + ' GB'),
+                driveUsed = info.usedGb,
+                drivePer = (info.usedPercentage + '%')
+        }).catch(() => {
+            driveTotal = NotDetect,
+                driveUsed = NotDetect,
+                drivePer = NotDetect
+        })
+        let ramTotal, ramUsed
+        let p3 = mem.info().then(info => {
+            ramTotal = info.totalMemMb,
+                ramUsed = info.usedMemMb
+        }).catch(() => {
+            ramTotal = NotDetect,
+                ramUsed = NotDetect
+        })
+        let netsIn, netsOut
+        let p4 = netstat.inOut().then(info => {
+            netsIn = (info.total.inputMb + ' MB'),
+                netsOut = (info.total.outputMb + ' MB')
+        }).catch(() => {
+            netsIn = NotDetect,
+                netsOut = NotDetect
+        })
+        await Promise.all([p1, p2, p3, p4])
+        await conn.reply(m.chat, `_Testing ${command }..._`, m)
+        let _ramTotal = (ramTotal + ' MB')
+        let neww = performance.now()
+        
+
+var txt = `
+*「 Status 」*
+OS : *${OS}*
+CPU Model : *${cpuModel}*
+CPU Core : *${cpuCore} Core*
+CPU : *${cpuPer}%*
+Ram : *${ramUsed} / ${_ramTotal}(${/[0-9.+/]/g.test(ramUsed) &&  /[0-9.+/]/g.test(ramTotal) ? Math.round(100 * (ramUsed / ramTotal)) + '%' : NotDetect})*
+Drive : *${driveUsed} / ${driveTotal} (${drivePer})*
+Ping : *${Math.round(neww - old)} ms*
+Internet IN : *${netsIn}*
+Internet OUT : *${netsOut}*
+`
+
+conn.relayMessage(m.chat, {
+extendedTextMessage:{
+                text: txt, 
+                contextInfo: {
+                     externalAdReply: {
+                        title: "",
+                        mediaType: 1,
+                        previewType: 0,
+                        renderLargerThumbnail: true,
+                        thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
+                        sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
+                    }
+                }, mentions: [m.sender]
+}}, {})
+        console.log(OS)
+    } catch (e) {
+        console.log(e)
+        conn.reply(m.chat, eror, m)
+        if (DevMode) {
+            for (let jid of global.owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').filter(v => v != conn.user.jid)) {
+                conn.reply(jid, 'Status.js error\nNo: *' + m.sender.split `@` [0] + '*\nCommand: *' + m.text + '*\n\n*' + e + '*', m)
+            }
+        }
+    }
+}
+handler.help = ['hai', 'bot'].map(v => 'status' + v)
+handler.tags = ['info']
+handler.command = /^(bot)?stat(us)?(bot)?$/i
+
+module.exports = handler
+
+function clockString(ms) {
+    let h = Math.floor(ms / 3600000)
+    let m = Math.floor(ms / 60000) % 60
+    let s = Math.floor(ms / 1000) % 60
+    console.log({ ms, h, m, s })
+    return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')
+}
