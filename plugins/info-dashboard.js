@@ -23,7 +23,7 @@ let name = Array.isArray(plugins[key]?.help) ? plugins[key]?.help?.join(' , ') :
           mediaType: 1,
           previewType: 0,
           renderLargerThumbnail: true,
-          thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
+          thumbnailUrl: 'https://telegra.ph/file/a3ea41049bafaabb1928c.jpg',
           sourceUrl: ''
         }
       },
