@@ -36,8 +36,6 @@
 - Setelah mendapatkan apikey silahkan paste di config.js pada bagian ```global.btc``` dan ```global.lann```
 
 
-## Group Bot
-- Group Bot [`Join`](https://chat.whatsapp.com/GN475mNniisGfKkgNX1W3i)
 ## Support
 
 <a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
@@ -51,7 +49,7 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 
 ## Run On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyalwaysgood/KinaBot)
 # Heroku Buildpack
 ### Instal Buildpack
 ```bash
@@ -68,8 +66,8 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/BOTZOFFICIAL/WenBotz
-cd WENBOTZ-MD
+git clone https://github.com/ikyalwaysgood/KinaBot
+cd KinaBot
 npm i
 npm start
 ```
@@ -80,18 +78,3 @@ node index.js --pairing
 
 ```
 
-
-##### All Contributors
-<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT) 
----|---
-[Tio](https://github.com/BOTCAHX)  | [Erlan](https://github.com/ERLANRAHMAT)
-Recode | Contributor |
-
-##### Special Thanks To
-<!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
----|---
-[Bochilgaming](https://github.com/BochilGaming)  | [Nurutomo](https://github.com/Nurutomo)
-sepuh | sepuh |
